@@ -1,12 +1,15 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Red 
 Orange 
 Yellow
 Green
 Blue 
+Unicorn
 Indigo
 Purple
 
 Oops is there Pink or not? 
 Yes, there isn't Pink
+
+But there is a Unicorn!
