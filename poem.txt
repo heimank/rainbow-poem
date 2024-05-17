@@ -7,3 +7,5 @@ Green
 Blue 
 Indigo
 Purple
+
+Oops is there Pink or not? 
