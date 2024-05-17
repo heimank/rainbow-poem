@@ -9,3 +9,4 @@ Indigo
 Purple
 
 Oops is there Pink or not? 
+Yes, there isn't Pink
